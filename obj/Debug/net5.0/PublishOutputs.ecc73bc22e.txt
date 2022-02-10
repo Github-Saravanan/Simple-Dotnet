@@ -1,0 +1,45 @@
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\Simple Dotnet.exe
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\css\site.css
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\favicon.ico
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\js\site.js
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\LICENSE
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.js
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\LICENSE.md
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.js
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.min.js
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.min.map
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\wwwroot\lib\jquery\LICENSE.txt
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\appsettings.Development.json
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\appsettings.json
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\Simple Dotnet.dll
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\Simple Dotnet.deps.json
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\Simple Dotnet.runtimeconfig.json
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\Simple Dotnet.pdb
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\Simple Dotnet.Views.dll
+E:\UZF\Simple Dotnet\bin\Debug\net5.0\publish\Simple Dotnet.Views.pdb
